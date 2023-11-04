@@ -1,0 +1,31 @@
+/*estilos generales*/
+body{
+    margin: 10px; 
+    background-color: rgb(150, 138, 138);
+    color: aliceblue;  
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 5rem 5rem;
+}
+
+#title{
+    font-size:  3rem;
+    text-align: center;
+}
+
+/*una manera sencilla de centrar*/
+
+.container{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.container .post{
+    background-color: rgb(0, 0, 0);
+    margin: 1rem 0;
+    border-radius: 10px;
+    padding: 0.25rem 0;
+}
